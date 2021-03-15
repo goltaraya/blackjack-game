@@ -1,0 +1,15 @@
+So, welcome to our Blackjack House! Above you'll find some rules
+that we defined to understand how the game works:
+
+1 - The deck is unlimited in size. 
+2 - There are no jokers. 
+3 - The Jack/Queen/King all count as 10. In the game they're represented by 10.
+4 - The the Ace can count as 11 or 1.
+5 - Cards are not removed from the deck as they are drawn.
+6 - The computer is the dealer.
+
+Hope you enjoy this funny game. 
+And, as I always say:
+- Feel free to take the code and modify it the way you want.
+
+Author >>> Yago Goltara
